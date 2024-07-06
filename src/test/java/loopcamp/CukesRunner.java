@@ -15,4 +15,4 @@ import org.junit.runner.RunWith;
         publish = true,
         tags = "@regression or @smoke"
 )
-public class CukesRunner {}
+public class CukesRunner{}

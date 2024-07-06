@@ -22,7 +22,7 @@ public class StepDefs {
         Driver.getDriver().manage().window().maximize();
 //        Driver.getDriver().get("https://www.etsy.com");
 //        Driver.getDriver().get("http://www.amazon.com");
-        Driver.getDriver().get("http://www.ebay.com");
+       Driver.getDriver().get("http://www.ebay.com");
     }
 
     @When("^I search for \"([^\"]*)\"$")
